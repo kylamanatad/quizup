@@ -27,10 +27,3 @@ Flashcard Quiz is an interactive web application designed to help users practice
 5. **Timer**: Keep track of the remaining time during the quiz. If time runs out, only correct answers amongst attempted questions are considered.
 6. **Quiz Completion**: After completing the quiz, the interface is blurred, and the result is shown.
 7. **Retake Quiz**: Users can retake quizzes by navigating back to the topic selection page.
-
-## Installation
-1. Clone or download the Flashcard Quiz repository from [GitHub](https://github.com/MaitisamY/flashcard-quiz)
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Run `npm run dev` to start the development server.
-5. Open the provided URL in a web browser to access the application.
