@@ -2,8 +2,6 @@
 
 Flashcard Quiz is an interactive web application designed to help users practice and test their knowledge on various topics. With multiple-choice answer selection and minor animations, users can engage in an enjoyable learning experience. The app utilizes local storage for certain functionalities and provides a seamless quiz-taking process. Flashcard quiz takes your name to only save your quiz progress and show you the results related only to you.
 
-### You can remove your added names at any time.
-
 ## Features
 - **User Authentication**: Users can enter their names to start taking quizzes.
 - **Multi-User System**: Users can add as many names (account) as they want upon signing in, this allows them to maintain a personalized experience and keep track of their progress for each account separately.
