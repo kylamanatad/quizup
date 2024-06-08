@@ -87,26 +87,6 @@ function Terms({ handleTermsSubmit, handleOutsideClick }) {
                             <strong>Retake Quiz:</strong> Users can retake quizzes by navigating back to the topic selection page.
                         </li>
                     </ol>
-
-                    <h4>Installation</h4>
-                    <ol>
-                        <li>Clone or download the Flashcard Quiz repository from <a rel="noreferrer" href="https://github.com/MaitisamY/flashcard-quiz" target={'_blank'}>GitHub</a>
-                        </li>
-                        <li>Navigate to the project directory.</li>
-                        <li>Run <code>npm install</code> to install dependencies.</li>
-                        <li>Run <code>npm run dev</code> to start the development server.</li>
-                        <li>Open the provided URL in a web browser to access the application.</li>
-                    </ol>
-
-                    <h4>Live Demo</h4>
-                    <p>Check out the live version of the project <a rel="noreferrer" href="https://flashcard-quiz-blush.vercel.app" target={'_blank'}>here</a></p>
-
-                    <h4>Support</h4>
-                    <p>For any inquiries or support requests, please reach out to me through <a rel="noreferrer" href="mailto:m.aitisamyaseen@gmail.com" target={'_blank'}>Email</a>.</p>
-
-                    <h4>Note</h4>
-                    <p>This project is open-source and does not include a license. Users are free to use and modify the code according to their requirements.</p>
-                    <h5>Happy coding!</h5>
                 </>
             </div>
         </div>
